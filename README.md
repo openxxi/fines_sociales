@@ -13,3 +13,7 @@ g.	Estudio e implantación de recursos informáticos en cualquier tipo de empres
 h.	Implantación en el campo de la domótica, la energía solar así como de cualquier otra nueva tecnología.   
 i.	Estudio e implantación de sistemas en comercio, banca.  
 j.	Implantación, divulgación y formación en la utilización de software de uso libre, en todos los ámbitos: domestico, empresarial, educativo.  
+k.  Tratamiento de datos de cualquier tipo, y conversión a estandares.  
+l.  Tratamiento y reciclaje de equipos informáticos, dispositivos electronicos.
+ll. Formación en Entidades Públicas.
+n.  Contratacón de servicios con Entidades Publicas, para el cumplimiento de las normativa vigente y la normativa que pueda en un futuro afectar a dichas Entidades.  
