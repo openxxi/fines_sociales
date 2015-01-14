@@ -17,4 +17,5 @@ k.  Tratamiento de datos de cualquier tipo, y conversión a estandares.
 l.  Tratamiento y reciclaje de equipos informáticos, dispositivos electronicos.
 ll. Formación en Entidades Públicas.
 n.  Contratacón de servicios con Entidades Publicas, para el cumplimiento de las normativa vigente y la normativa que pueda en un futuro afectar a dichas Entidades.
-o.  Reparación recuperación y mantenimiento de equipo informático y TIC. 
+o.  Reparación recuperación y mantenimiento de equipos informáticos y TIC.
+p.  Promoción y difusión de proyectos de cultura abierta.
